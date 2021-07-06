@@ -25,7 +25,7 @@ p {
 .specific-color {
   color: orangered;
 }
-a {
+.half-width a {
   text-decoration: none;
   padding: 30px 70px;
   background-image: linear-gradient(orange, orangered);
@@ -36,7 +36,16 @@ a {
 .half-width {
   width: 50%;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 80px;
+}
+.header-class {
+  text-decoration: none;
+  padding: 10px 25px;
+  background-image: linear-gradient(orange, orangered);
+  border-radius: 40px;
+  font-weight: 600;
+  color: white;
+  margin: 15px;
 }
 .half-width h1 {
   margin-top: 150px;
