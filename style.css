@@ -74,3 +74,18 @@ a {
 .recipies-design p {
   font-size: 20px;
 }
+.footer-section {
+  height: 300px;
+  background: black;
+  text-align: center;
+  margin-bottom: 0;
+}
+.footer-section p {
+  color: aliceblue;
+  font-size: 20px;
+}
+.footer-section h2 {
+  padding-top: 100px;
+  color: gray;
+  font-size: 30px;
+}
