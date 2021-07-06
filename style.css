@@ -14,7 +14,7 @@ h1 {
   padding-top: 100px;
 }
 h2 {
-  font-size: 80px;
+  font-size: 60px;
 }
 p {
   font-size: 30px;
@@ -44,4 +44,33 @@ a {
   background-size: cover;
   background-image: url(images/background.png);
   background-repeat: no-repeat;
+}
+.text-orientation p {
+  text-align: center;
+  font-size: 18px;
+}
+.text-orientation h2 {
+  text-align: center;
+}
+.recipies-design {
+  width: 400px;
+  height: 500px;
+  box-shadow: 5px 5px 20px 5px gray;
+  border-radius: 40px;
+  padding: 35px;
+  margin: 0 auto;
+}
+.recipies-design img {
+  width: 100%;
+  height: 300px;
+}
+.card-container {
+  width: 90vw;
+  margin: 0 auto;
+}
+.recipies-design h2 {
+  font-size: 40px;
+}
+.recipies-design p {
+  font-size: 20px;
 }
